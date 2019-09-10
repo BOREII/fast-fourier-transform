@@ -1,7 +1,3 @@
 # fast-fourier-transform
 
-Одна из домашних работ по алгоритмам. 
-
-Здесь реализован алгоритм БПФ и для удобства добавлен класс Polynomial. 
-
-Так же с помощью БПФ решается задача поиска подстрок в строке.
+Implemented Fast Fourier Transform algorithm and applied it to problem of finding substring with missing letters in another string.
